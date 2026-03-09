@@ -1,0 +1,8 @@
+# JARs are binary
+*.jar binary
+
+# Shell scripts LF only
+*.sh text eol=lf
+
+# Batch files CRLF
+*.bat text eol=crlf
