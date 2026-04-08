@@ -135,6 +135,9 @@ Crear AJAX callback + botón de descarga en la página APEX.
 
 ## Referencias Detalladas
 
-- [references/apex-internals.md](references/apex-internals.md) — Tablas wwv_flow_*, template IDs, errores comunes
+- [references/apex-internals.md](references/apex-internals.md) — Tablas wwv_flow_*, template IDs, data dictionary views, ORA-00904 fixes
+- [references/apex-plsql-apis.md](references/apex-plsql-apis.md) — 41 paquetes APEX PL/SQL: APEX_JSON, APEX_ERROR, APEX_COLLECTION, AJAX callbacks, Forms built-in mapping
+- [references/apex-js-apis.md](references/apex-js-apis.md) — APIs JavaScript APEX: apex.server/item/region/page/message/navigation/da/util/actions, $v/$s legacy, trigger patterns
+- [references/oracle-db-apis.md](references/oracle-db-apis.md) — Oracle DB APIs: DBMS_LOB, DBMS_METADATA, DBMS_SCHEDULER, DBMS_CRYPTO, JSON_OBJECT_T, REGEXP, analytics, dictionary views
 - [references/forms-mapping.md](references/forms-mapping.md) — Mapeo completo Forms -> APEX
 - [references/jasperreports.md](references/jasperreports.md) — JasperReports Server + APEX integration
